@@ -1,0 +1,28 @@
+.container5{
+	margin-left: 300px;
+	margin-right: 300px;
+	border: 2px solid black;
+
+}
+
+.container6{
+	float: left;
+	width: 60%;
+	height: 95%;
+}
+
+.row1{
+	margin-bottom: 10px;
+	border: 1px solid black;
+	max-height: 20%;
+	padding: 0;
+}
+
+
+.container7{
+	border: 1px solid black;
+	float: right;
+	padding: 10px;
+	margin: 10px 10px 10px 5px;
+	width: 37%;
+}
